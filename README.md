@@ -4,6 +4,12 @@ This documentation is for the integration of JustPay tokenized payments into you
 
 ---
 
+## Test Bank Accounts for Sandbox Testing
+
+**Test Bank Name:** Test Bank  
+**Test Bank Accounts:** 123456, 1234567, 12345678  
+**Test OTP:** 1234  
+
 ## Additional Tokenization Features
 
 - **Live Base URL**: `POST https://ipgpayment.payable.lk`
